@@ -8,6 +8,7 @@
 		"type": "git",
 		"url": "https://github.com/parth-paradkar/ClipDate"
 	},
+	"icon": "images/calendar.png",
 	"engines": {
 		"vscode": "^1.55.0"
 	},
