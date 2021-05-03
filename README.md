@@ -9,5 +9,5 @@ Insert simple date and UTC date in your file.
 
 This extension contributes the following settings:
 
-* `clipDate.getDate`: Get date in simple format
-* `clipDate.getUTCDate`: Get date in UTC format
+* `clipDate.getDate`: Get date in simple format (`Ctrl+Alt+D`)
+* `clipDate.getUTCDate`: Get date in UTC format (`Ctrl+Alt+T`)
