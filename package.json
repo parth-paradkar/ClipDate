@@ -4,6 +4,10 @@
 	"description": "Shortcut to add date",
 	"version": "0.0.1",
 	"publisher": "parth-paradkar",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/parth-paradkar/ClipDate"
+	},
 	"engines": {
 		"vscode": "^1.55.0"
 	},
