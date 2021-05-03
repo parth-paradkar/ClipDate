@@ -2,7 +2,7 @@
 	"name": "clipdate",
 	"displayName": "ClipDate",
 	"description": "Shortcut to add date",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "parth-paradkar",
 	"repository": {
 		"type": "git",
