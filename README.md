@@ -1,5 +1,6 @@
 # clipdate
 
+[Marketplace](https://marketplace.visualstudio.com/items?itemName=parth-paradkar.clipdate)
 
 ## Features
 Insert simple date and UTC date in your file.
